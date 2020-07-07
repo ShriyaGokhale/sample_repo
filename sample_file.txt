@@ -1,5 +1,8 @@
 This is a sample file as a start to learn git.
 
+Add a line in between to check mergeablity.
+
+
 Adding a new line, to commit the code.
 
 

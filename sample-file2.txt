@@ -1,1 +1,3 @@
 This is a new sample file for new branch
+
+Modifying the file to check conflict condition when merging two branches
